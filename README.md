@@ -3,6 +3,7 @@
 ## Woonggyu Jin
 
 This project implements the game of Breakout.
+Note that the repository was cloned directly from my school's private Gitlab repository, so commit histories aren't here.
 
 ### Timeline
 
